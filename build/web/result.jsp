@@ -13,5 +13,6 @@
     </head>
     <body>
         <h1>le resultat est ${result}</h1>
+        <h2>produit</h2>
     </body>
 </html>
